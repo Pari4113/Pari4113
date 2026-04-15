@@ -48,5 +48,5 @@ I design and build production-grade backend services, cloud-native applications,
 
 ### Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/paridhipatel/)
-[![Email](patelparidhi33@gmail.com)
+LinkedIn: https://www.linkedin.com/in/paridhipatel/
+Email: patelparidhi33@gmail.com
