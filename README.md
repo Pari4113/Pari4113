@@ -1,24 +1,42 @@
 # Hi, I'm Paridhi Patel 👋
 
-**Software Engineer** · Backend & Full-Stack · Building scalable systems with 3+ years of experience
+**Data Engineer** | Databricks Certified | Based in USA
 
-I design and build production-grade backend services, cloud-native applications, and high-performance APIs. I'm passionate about microservices architecture, distributed systems, and integrating AI/LLM capabilities into real-world products.
+I build scalable ETL pipelines, design data models, and deploy analytics 
+solutions on cloud platforms. My work centers on turning messy, large-scale 
+data into reliable, queryable assets that drive decisions.
 
-📍 Based in Texas, USA · 🎓 MS Computer Science, UT Arlington  
+### 🔧 What I work with
+- **Big Data & ETL:** Apache Spark, PySpark, Delta Lake, Databricks, Medallion Architecture, ETL/ELT Pipelines,
+MLflow
+- **Languages:** Python, SQL, Java, JavaScript, TypeScript, Bash
+- **Databases:** PostgreSQL, MySQL, MongoDB, Delta Lake, AWS S3
+- **Cloud & DevOps:** AWS (EC2, ECS, S3, RDS), Docker, Terraform, Jenkins, CI/CD
+- **Analytics & AI:** Power BI, OpenAI API, Claude API, Prompt Engineering
+
+### 🏆 Certification
+**Databricks Certified Data Engineer Associate** (2026) 
+
+### 🚀 Featured Projects
+
+**[Loan Default Risk Pipeline](https://github.com/Pari4113/loan-risk-pipeline)**  
+End-to-end Medallion architecture on Databricks. Processes 1.34M loan records 
+through Bronze → Silver → Gold layers using PySpark and Delta Lake. Includes 
+MLflow experiment tracking and achieves 0.70 AUC with 62% default recall.  
+`PySpark` `Delta Lake` `Databricks` `MLflow` `Python`
+
+**[Natural Language to SQL Chatbot](https://github.com/Pari4113/loan-risk-chatbot)**  
+Text-to-SQL chatbot that converts plain English into optimized SQL queries over 
+Delta tables. Features automatic schema discovery and runs locally with Mistral 
+via Ollama.  
+`Python` `LLM` `SQL` `Databricks` `Delta Lake`
 
 ---
 
-### What I Work With
-
-**Languages:** Java · Python · JavaScript · TypeScript · Bash  
-**Backend:** Spring Boot · Node.js · Express.js · FastAPI · RESTful APIs · Microservices  
-**Frontend:** React.js · Vue.js · Next.js · HTML · CSS  
-**Databases:** PostgreSQL · MySQL · MongoDB  
-**Cloud & Infra:** AWS (EC2, ECS, S3, RDS, Elastic Beanstalk) · Docker · Terraform  
-**CI/CD & DevOps:** Git · GitHub Actions · CircleCI · Jenkins  
-**AI/LLM:** OpenAI API · Claude API · Prompt Engineering  
-
----
+### 💼 Also experienced in full-stack development
+I built production full-stack applications with 
+Spring Boot, Next.js, and Java — experience that informs how I design 
+robust, production-grade data systems today.
 
 ### Featured Projects
 
@@ -30,19 +48,6 @@ I design and build production-grade backend services, cloud-native applications,
 
 🏠 **[Enhomes](https://github.com/Pari4113/Enhomes)** — Property management platform with Android frontend and Node.js REST API  
 `Java` `Android` `Node.js` `Express.js` `Swagger` · Backend repo: [Enhomes-Backend](https://github.com/Pari4113/Enhomes-Backend)
-
-📁 **[FileFluent](https://github.com/Pari4113/FileFluent)** — File management application with Vue.js frontend and Java backend  
-`Vue.js` `TypeScript` `Java`
-
----
-
-### Experience Snapshot
-
-| Role | Company | Focus |
-|------|---------|-------|
-| Software Engineer Intern | Tydii | Node.js microservices, React/Vue frontends, AWS deployments, AI chatbot integration |
-| Data & Analytics Support | UT Arlington | Python automation, Power BI dashboards, SQL reporting |
-| Software Engineer | DXC Technology | Spring Boot microservices, AWS infrastructure, CI/CD pipelines, LLM integration |
 
 ---
 
