@@ -30,7 +30,6 @@ Text-to-SQL chatbot that converts plain English into optimized SQL queries over
 Delta tables. Features automatic schema discovery and executes queries directly 
 on Databricks using ai_query with Llama 3.3 70B.  
 `Python` `LLM` `SQL` `Databricks` `Delta Lake` `Llama 3.3`
----
 
 ### 💼 Also experienced in full-stack development
 I built production full-stack applications with 
