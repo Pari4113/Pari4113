@@ -27,10 +27,9 @@ MLflow experiment tracking and achieves 0.70 AUC with 62% default recall.
 
 **[Natural Language to SQL Chatbot](https://github.com/Pari4113/loan-risk-chatbot)**  
 Text-to-SQL chatbot that converts plain English into optimized SQL queries over 
-Delta tables. Features automatic schema discovery and runs locally with Mistral 
-via Ollama.  
-`Python` `LLM` `SQL` `Databricks` `Delta Lake`
-
+Delta tables. Features automatic schema discovery and executes queries directly 
+on Databricks using ai_query with Llama 3.3 70B.  
+`Python` `LLM` `SQL` `Databricks` `Delta Lake` `Llama 3.3`
 ---
 
 ### 💼 Also experienced in full-stack development
