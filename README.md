@@ -31,6 +31,11 @@ Delta tables. Features automatic schema discovery and executes queries directly
 on Databricks using ai_query with Llama 3.3 70B.  
 `Python` `LLM` `SQL` `Databricks` `Delta Lake` `Llama 3.3`
 
+**[AI ETL Orchestrator Agent](https://github.com/Pari4113/ai-etl-orchestrator-agent)**  
+AI agent that takes plain English instructions and automatically plans and executes a full ETL pipeline on Medallion architecture. Features automated data quality framework with 12 checks, LLM-based error diagnosis, and a Streamlit UI powered by Groq's Llama 3.3 70B.  
+`Python` `LangChain` `Groq` `DuckDB` `Streamlit` `Llama 3.3`
+
+
 ### 💼 Also experienced in full-stack development
 I built production full-stack applications with 
 Spring Boot, Next.js, and Java — experience that informs how I design 
